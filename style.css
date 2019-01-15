@@ -1,6 +1,10 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway');
+
 body
 {
 	margin: 0;
+	font-family: "Raleway-Black", sans-serif;
+	font-weight: bold;
 }
 
 .top-banner
@@ -17,6 +21,8 @@ body
 	background-repeat: no-repeat;
 	background-size: cover;
 
+	object-fit: cover;
+
 	text-align: center;
 }
 
@@ -32,7 +38,7 @@ body
 {
 	display: inline-block;
 	color: white;
-	font: 8px "Lato", sans-serif;
+	font-size: 8px;
 	text-transform: uppercase;
 	letter-spacing: 2px;
 	text-decoration: bold;
@@ -43,7 +49,7 @@ body
 
 .top-banner .large-list-item
 {
-	font: 20px "Lato", sans-serif;
+	font-size: 20px;
 	text-transform: uppercase;
 	letter-spacing: 3px;
 	text-decoration: bold;
@@ -55,7 +61,7 @@ body
 {
 	color: white;
 	padding-top: 115px;
-	font: 65px "Lato", sans-serif;
+	font-size: 65px;
 	width: 50%;
 	margin: auto;
 	font-weight: bold;
@@ -67,7 +73,6 @@ body
 	padding-top: 50px;
 	text-align: center;
 	margin: auto;
-	font: "Raleway", sans-serif;
 	color: white;
 }
 
@@ -79,7 +84,6 @@ body
 	background-color: white;
 	margin: 20px auto;
 	text-align: center;
-	font-family: "Raleway";
 	font-size: 10px;
 	font-weight: bold;
 	border: none;
