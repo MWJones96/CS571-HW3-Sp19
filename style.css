@@ -3,7 +3,7 @@
 body
 {
 	margin: 0;
-	font-family: "Raleway-Black", sans-serif;
+	font-family: "Raleway-Bold", sans-serif;
 	font-weight: bold;
 }
 
@@ -74,6 +74,7 @@ body
 	text-align: center;
 	margin: auto;
 	color: white;
+	font-weight: normal;
 }
 
 .top-banner button
@@ -96,5 +97,6 @@ body
 	display: inline-block;
 	padding: 10px;
 	transform: rotate(45deg);
-	margin: 30px auto;
+	margin: 25px auto;
+	margin-bottom: 25px;
 }
