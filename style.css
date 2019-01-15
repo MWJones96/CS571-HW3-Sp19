@@ -1,0 +1,47 @@
+body
+{
+	margin: 0;
+}
+
+.top-banner
+{
+	background-image: url("res/snow1.jpg");
+
+	width: 750px;
+	height: 85vh;
+	display: block;
+	margin: 0 auto;
+
+	background-attachment: fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.top-banner ul
+{
+	width: 100%;
+	margin: auto;
+	padding-top: 30px;
+}
+
+.top-banner ul li
+{
+	display: inline;
+	color: white;
+	margin: 8px;
+	font: 12px "Lato", sans-serif;
+	text-transform: uppercase;
+	letter-spacing: 2px;
+	text-decoration: bold;
+	font-weight: bold;
+}
+
+.top-banner .large-list-item
+{
+	font: 18px "Lato", sans-serif;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	text-decoration: bold;
+	font-weight: bold;
+}
