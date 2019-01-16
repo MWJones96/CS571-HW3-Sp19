@@ -11,8 +11,8 @@ body
 {
 	background-image: url("http://csci571.com/hw/hw3/images/snow1.jpg");
 
-	width: 750px;
-	height: 85vh;
+	width: 800px;
+	height: 650px;
 	display: block;
 	margin: 0 auto;
 
@@ -20,7 +20,6 @@ body
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: cover;
-	object-fit: cover;
 
 	text-align: center;
 }
@@ -102,8 +101,8 @@ body
 
 table
 {
-	width: 700px;
-	height: 80vh;
+	width: 750px;
+	height: 750px;
 	margin: 50px auto;
 }
 
@@ -112,7 +111,7 @@ td
 	text-align: center;
 	width: 50%;
 	height: 50%;
-	padding: 5px;
+	padding: 10px;
 }
 
 td img
@@ -135,8 +134,8 @@ td img
 {
 	background-image: url("http://csci571.com/hw/hw3/images/snow6.jpg");
 
-	width: 750px;
-	height: 75vh;
+	width: 800px;
+	height: 600px;
 	display: block;
 	margin: 0 auto;
 
