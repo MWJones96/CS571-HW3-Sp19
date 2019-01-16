@@ -11,8 +11,8 @@ body
 {
 	background-image: url("http://csci571.com/hw/hw3/images/snow1.jpg");
 
-	width: 800px;
-	height: 650px;
+	width: 750px;
+	height: 620px;
 	display: block;
 	margin: 0 auto;
 
@@ -95,8 +95,7 @@ body
 	display: inline-block;
 	padding: 10px;
 	transform: rotate(45deg);
-	margin: 25px auto;
-	margin-bottom: 25px;
+	margin: 5px auto;
 }
 
 table
@@ -134,8 +133,8 @@ td img
 {
 	background-image: url("http://csci571.com/hw/hw3/images/snow6.jpg");
 
-	width: 800px;
-	height: 600px;
+	width: 750px;
+	height: 620px;
 	display: block;
 	margin: 0 auto;
 
