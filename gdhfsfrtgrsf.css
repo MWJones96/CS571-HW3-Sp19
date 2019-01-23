@@ -1,9 +1,10 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway');
+
 body
 {
 	margin: 0;
-	font-family: Futura-pt, Arial, sans-serif;
-	font-style: bold;
-	font-weight: 500;
+	font-family: 'Raleway', Arial, sans-serif;
+	font-weight: bolder;
 }
 
 .top-banner
@@ -12,13 +13,12 @@ body
 
 	width: 750px;
 	height: 620px;
-	display: block;
 	margin: 0 auto;
 
-	background-attachment: fixed;
 	background-repeat: no-repeat;
-	background-position: center;
+	background-attachment: fixed;
 	background-size: cover;
+	background-position: center;
 
 	text-align: center;
 }
@@ -123,9 +123,10 @@ td img
 .description
 {
 	color: #999999;
-	font-size: 10px;
+	font-size: 11px;
 	width: 500px;
 	margin: 50px auto;
+	font-weight: normal;
 }
 
 .bottom-banner
@@ -147,7 +148,6 @@ td img
 
 .bottom-banner p
 {
-	position: absolute;
 	color: white;
 
 	font-weight: normal;
@@ -162,5 +162,5 @@ td img
 
 .white-space
 {
-	height: 50vh;
+	height: 30vh;
 }
